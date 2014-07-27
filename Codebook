@@ -50,8 +50,9 @@ Tidy data set contains the same variables as the raw does, but the variables wer
 •	Not duplicated - the variable names are unique, so again nothing special had to be done.
 •	Underscores, dashes and parentheses were removed from variable names.
 •	BodyBody was cleaned up to be Body
+
 Variables in raw and tidy data set
-Raw data set	Tidy data set
+Raw data set	    Tidy data set
 subject	subject
 label	label
 tBodyAcc-mean()-X	tBodyAccMeanX
