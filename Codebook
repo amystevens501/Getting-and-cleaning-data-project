@@ -53,8 +53,8 @@ Tidy data set contains the same variables as the raw does, but the variables wer
 
 Variables in raw and tidy data set
 Raw data set	    Tidy data set
+ID
 activityID  ActivityID
-subjectID	subjectID
 tBodyAcc-mean()-X	tBodyAccMeanX
 tBodyAcc-mean()-Y	tBodyAccMeanY
 tBodyAcc-mean()-Z	tBodyAccMeanZ
